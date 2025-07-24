@@ -11,7 +11,7 @@
 
 - 📫 Contact **ayushkhatarkar6@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/10xXGOJP7QxxB6_oaqokeTyCFH21xS8G_/view?usp=drive_link](https://drive.google.com/file/d/10xXGOJP7QxxB6_oaqokeTyCFH21xS8G_/view?usp=drive_link)
+- 📄 Know about my experiences [https://drive.google.com/file/d/10xXGOJP7QxxB6_oaqokeTyCFH21xS8G_/view?usp=drive_link](https://drive.google.com/file/d/10xXGOJP7QxxB6_oaqokeTyCFH21xS8G_/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
