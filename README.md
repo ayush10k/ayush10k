@@ -1,4 +1,4 @@
-<h1 align="center">Hello there! I am Ayush Khatarkar</h1>
+<h1 align="center">Hey there!, I am Ayush Khatarkar</h1>
 <h3 align="center">A passionate Software Developer and a Coder.</h3>
 
 - 🚗 Built CARKARO real-world web applications focused on solving practical problems faced by peoples today. [CarKaro](https://github.com/ayush10k/Car_Karlo-v2)
